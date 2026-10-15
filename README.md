@@ -14,7 +14,7 @@ The schema includes 5 main entities:
 - **OrderItems**: A junction table linking products and orders to handle many-to-many relationships.
 
 ## Entity Relationship Diagram (ERD)
-![ER Diagram](er-diagram.png)
+![ER Diagram](⁠er-diagram.png)
 
 ## Analytical Queries Included
 - **Customer Lifetime Spending**: Aggregates total spending and order counts per customer.
